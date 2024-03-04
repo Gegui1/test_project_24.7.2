@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b012d64-91f3-41a8-a0ed-0b924c81e535" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/QAP_PetFriendsTesting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/images/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/images/cat2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/images/test_pet_friends.py" afterDir="false" />
-    </list>
+    <list default="true" id="3b012d64-91f3-41a8-a0ed-0b924c81e535" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +34,7 @@
   "keyToString": {
     "Python tests.Python tests for test_pet_friends.test_add_new_pet_with_invalid_age.executor": "Run",
     "Python tests.Python tests for test_pet_friends.test_add_new_pet_with_invalid_data.executor": "Run",
+    "Python tests.Python tests for test_pet_friends.test_add_new_pet_with_not_valid_age.executor": "Run",
     "Python tests.Python tests for test_pet_friends.test_add_new_pet_with_valid_data.executor": "Run",
     "Python tests.Python tests for test_pet_friends.test_add_new_pet_withouh_photo_valid_data.executor": "Run",
     "Python tests.Python tests for test_pet_friends.test_add_new_pet_without_photo_invalid_data.executor": "Run",
@@ -203,17 +192,19 @@
       <option name="presentableId" value="Default" />
       <updated>1709385839445</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1709587603170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709587603170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tests/images/test_pet_friends.py</url>
-          <line>45</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
